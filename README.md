@@ -1,5 +1,7 @@
 # Exploratory-analysis-Using-Python
 
+![gaming-newbies-stadia-videoSixteenByNineJumbo1600](https://github.com/IAMSAGAYAABINESH/Exploratory-analysis-of-video-game-dataset/assets/76099682/63982b4e-067a-4075-bed9-4a11adc2f545)
+
 
 ![most-popular-video-games-of-2022-1642612227](https://github.com/IAMSAGAYAABINESH/Exploratory-analysis-of-video-game-dataset/assets/76099682/7f54b4bb-8e4f-4ce0-b360-4a5dbc03a809)
 
